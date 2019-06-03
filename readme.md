@@ -41,7 +41,7 @@ The packing list for Norway, what to bring and how much.
 - **Painkillers**
 - **Toothbrush** (1x)
 - **Dry shampoo**
-- **Toilet paper
+- **Toilet paper**
 - **Bar soap**
 - **First Aid** (Shared)
 - **Toothpaste** (Shared)
