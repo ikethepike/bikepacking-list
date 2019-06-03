@@ -69,9 +69,10 @@ The packing list for Norway, what to bring and how much.
 - **Inner Tubes** (2x)
 - **Quick Link** (2x)
 - **Bolts**
-- **Grease** (Shared)
 - **Lube** (Shared)
+- **Grease** (Shared)
 - **Spokes** (Optional)
+- **Electrical Tape** (Shared)
 - **Jockey wheels** (Optional)
 
 ### Cooking
@@ -84,6 +85,7 @@ The packing list for Norway, what to bring and how much.
 ### Miscellaneous
 
 - **Pencil/Pen**
+- **Frame tape**
 - **Battery Pack**
 - **Fast Chargers**
 - **Portable Towel**
