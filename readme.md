@@ -8,29 +8,29 @@ The packing list for Norway, what to bring and how much.
 
 ### On the bicycle
 
-- **Shortsleeve Bike Jerseys** (2x)
-- **Bike Shorts** (2x)
-- **Pack Jacket**
+- **Helmet**
+- **Socks** (4x)
+- **SPD Shoes**
+- **Rain Pants**
 - **Bike Snood**
-- **Bike Glasses**
+- **Cycling Cap**
 - **Arm Warmers**
 - **Leg Warmers**
-- **SPD Shoes**
+- **Pack Jacket**
 - **Rain Jacket**
-- **Rain Pants**
-- **Cycling Cap**
-- **Socks** (4x)
-- **Helmet**
+- **Bike Glasses**
+- **Bike Shorts** (2x)
+- **Bike Jerseys** (2x)
 - **Long Fingered Gloves**
-- **Shoe Covers** (Optional)
 - **Baselayer** (Optional)
+- **Shoe Covers** (Optional)
 
 ### Off the bicycle
 
-- **Long Sleeve Shirt** (2x)
-- **Swim Trunks/Shorts**
-- **Compactable Shoes**
 - **Underwear** (3x)
+- **Compactable Shoes**
+- **Swim Trunks/Shorts**
+- **Long Sleeve Shirt** (2x)
 - **Pants** (Optional)
 
 ## Medical and Toiletries
@@ -55,7 +55,6 @@ The packing list for Norway, what to bring and how much.
 - **Rear Light**
 - **Front Light**
 - **Wahoo GPS** (Shared)
-- **GoPro** (One can dream...)
 - **Water Bottles** (2x)
 
 ### Tools
@@ -67,26 +66,27 @@ The packing list for Norway, what to bring and how much.
 
 ### Spares
 
-- **Patch Kit**
 - **Chain**
-- **Inner Tubes** (2x)
-- **Quick Link** (2x)
 - **Bolts**
+- **Patch Kit**
 - **Lube** (Shared)
+- **Quick Link** (2x)
 - **Grease** (Shared)
+- **Inner Tubes** (2x)
 - **Spokes** (Optional)
-- **Electrical Tape** (Shared)
 - **Jockey wheels** (Optional)
+- **Electrical Tape** (Shared)
 
 ### Cooking
 
-- **Combo Utensil w. knife**
 - **Pot**
-- **Camping kitchen** (Shared)
 - **Lighter**
+- **Combo Utensil w. knife**
+- **Camping kitchen** (Shared)
 
 ### Miscellaneous
 
+- **Passport**
 - **Pencil/Pen**
 - **Frame tape**
 - **Battery Pack**
@@ -94,20 +94,19 @@ The packing list for Norway, what to bring and how much.
 - **Portable Towel**
 - **Charging Cables**
 - **Sport Bars** (10x)
-- **Passport**
+- **Emergency phone** (Shared)
 - **USB-C to Micro-USB adapter**
 - **Heartrate Monitor** (Optional)
-- **Emergency phone** (Shared)
 
 ## Packing
 
 - **Frame Bag**
+- **Top Tube Bag**
 - **Seatpost bag**
 - **Handlebar bag**
-- **Top Tube Bag**
+- **Bike Straps** (4x)
 - **Dry Pack Bag** (3x)
 - **Ziplock bags** (4x)
-- **Bike Straps** (4x)
 
 ## Camping
 
